@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pydea-rs
-- 👀 I’m interested in doing things no one would/could!
-- 🌱 I’m currently learning everythinG i can.
-- 💞️ I’m looking to collaborate on dont know yet
-- 📫 How to reach me ...
-
-<!---
-pydea-rs/pydea-rs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- This account is from the owner of @pya-h actually.
+- I assign this place to another type of my projects
+- Projects that are simpler, yet cool on their own way
+- Here projects may be more mathematical in nature
+- And also i may push projects that i may not consider serious, or profesional
