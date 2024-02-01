@@ -1,5 +1,5 @@
 - This account is from the owner of @pya-h actually.
-- I assign this place to another type of my projects
+- I assign this place to another group of my projects
 - Projects that are simpler, yet cool on their own way
 - Here projects may be more mathematical in nature
 - And also i may push projects that i may not consider serious, or profesional
