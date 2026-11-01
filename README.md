@@ -19,7 +19,7 @@ workshop behind it — **68 public repositories** of curiosity-driven building.
 One person, two accounts — deliberately:
 
 - **🔬 Experiments & playgrounds** — ideas I wanted to try without production constraints: protocol simulations, scraping tools, small languages, desktop toys.
-- **📖 Learning workspaces** — tutorial walkthroughs, textbook exercises (Crafting Interpreters, Black Hat Go, Solana, machine learning), and assessment-prep material.
+- **📖 Learning workspaces** — tutorial walkthroughs and exercise collections (Go, Solana, FastAPI-era backend, machine learning) plus assessment-prep material.
 - **🕰️ Legacy & nostalgia** — code from 10+ years ago, kept alive on purpose. It shows where I started.
 - **💜 Cool, but not core** — projects I genuinely like and consider worth existing, but that don't represent what I want to be hired *for*. I'd rather curate them here than dilute my main portfolio.
 - **✨ Vibe-coded & quick tools** — small utilities I built because I needed them and no polished version existed.
@@ -58,13 +58,19 @@ One person, two accounts — deliberately:
 
 ## 🌟 Best Of This Account
 
-- 🛠️ [omen-creator-panel](https://github.com/pydea-rs/omen-creator-panel): Minimal but complete market-creation panel covering every stage of the market lifecycle — the most production-shaped build on this account.
 - 📓 [algorithm-workbook](https://github.com/pydea-rs/algorithm-workbook): Browsable, self-contained study space for coding-assessment prep — runs entirely in the browser with live demos, no build step.
-- 🧮 [VaX](https://github.com/pydea-rs/VaX): Dynamic variable implementation for Rust — runtime-typed values in a statically-typed language.
-- 🌐 [novelist-yew](https://github.com/pydea-rs/novelist-yew): Rust + WebAssembly (yew) novel-writing app — compiled-to-WASM product experiment.
-- 🕸️ [polyscraper](https://github.com/pydea-rs/polyscraper): React + Python toolkit for scraping and exploring prediction-market data, with Excel export and a live demo.
-- 📦 [npm-packup](https://github.com/pydea-rs/npm-packup): Go CLI that bulk-updates every dependency in a `package.json` to its latest version, with legacy-peer-deps support.
-- 🧰 [QtBatchRename](https://github.com/pydea-rs/QtBatchRename): The C++/Qt GUI sibling of my batch-rename tool — the desktop-app version of a scripting utility.
+- 🎫 [trainticket](https://github.com/pydea-rs/trainticket): Full-stack train-ticketing platform — pure HTML/CSS/JS frontend on a **Django** backend where staff define trains and routes, and buyers search and purchase tickets by source and destination. Live demo included.
+- 🖼️ [CatMeIfUCan](https://github.com/pydea-rs/CatMeIfUCan): AI-powered image-categorization platform — a **Django** backend that runs **ResNet/TensorFlow** inference on uploaded images, creates category models on demand, links every image to its predictions with recorded accuracy, and serves a GitHub Pages demo.
+- 🧺 [KodeShop](https://github.com/pydea-rs/KodeShop): The most complete commerce build on this account — a full online-shop platform for a farming-products business group. *(FastMeal is a sibling variant of the same project line, re-purposed for restaurant food ordering.)*
+- 📈 [lnctrl](https://github.com/pydea-rs/lnctrl): Deep mathematical web app for learning and practicing linear control — backed by a complete hand-written **calculus and linear-control library**. *(Mirrored from my main account.)*
+- 🏥 [clinic-client](https://github.com/pydea-rs/clinic-client): Professional frontend and integration-test client for the AI-Clinic telemedicine platform — role-based interfaces and a full-stack test suite. *(The backend lives on my main account.)*
+- 🔭 [evm-explorer](https://github.com/pydea-rs/evm-explorer): Started as a fork from another developer, then substantially revised and extended — now a proper local block explorer for EVM dev chains (Ganache), in Go.
+- 📌 [BulletinBoards.C](https://github.com/pydea-rs/BulletinBoards.C): A C project written several times over in deliberately different coding styles and architectures — a demonstration of C fluency and design flexibility.
+- 🔢 [byteculator](https://github.com/pydea-rs/byteculator): Big-number expression calculator in Rust using string-based arithmetic to bypass native numeric overflow limits.
+- 🚪 [EmployeeTraffix](https://github.com/pydea-rs/EmployeeTraffix): C# WinForms application for monitoring and logging employee entrance/exit times — with Julian-calendar date filtering and Excel report export. A solid demonstration of C# desktop skills.
+- 💊 [doserman](https://github.com/pydea-rs/doserman): Substance-usage tracking app — log intake, track habits over time, and see how well you're managing usage, with a statistics-oriented UI.
+- 🐍 [jsnakes](https://github.com/pydea-rs/jsnakes): Multiplayer snake engine in vanilla JavaScript with a custom rule-set (collision-only-loses, persistent PPT record challenge) and per-player keyboard mapping.
+- 📝🐵 [MyNote](https://github.com/pydea-rs/MyNote) + [MyMonkeyShooter](https://github.com/pydea-rs/MyMonkeyShooter): Mementos from two eras — a **VB.NET** notepad application and my 10-year-old **GameMaker** action game; early evidence of desktop tooling and game-design skills.
 
 ---
 
@@ -77,9 +83,8 @@ One person, two accounts — deliberately:
 - 🔍 [solexplorer](https://github.com/pydea-rs/solexplorer): Local Solana explorer for inspecting devnet activity.
 - 📚 [soltut](https://github.com/pydea-rs/soltut): My Solana tutorial workspace — working through on-chain program development hands-on.
 - 🚀 [gnosis-ctf-to-base-sepolia](https://github.com/pydea-rs/gnosis-ctf-to-base-sepolia): Full deployment kit — configs and contracts — for shipping Gnosis CTF and market-maker contracts to Base Sepolia.
-- 📡 [emissions-tracker](https://github.com/pydea-rs/emissions-tracker): Event consumer that collects specific on-chain program events through my SVM indexer — watching a live program's activity in real time.
 - 💱 [nimfy-orderly](https://github.com/pydea-rs/nimfy-orderly): DEX integration built on the Orderly Network.
-- 📐 Research docs: [dekantpm](https://github.com/pydea-rs/dekantpm) (mathematics of a continuous, multi-outcome prediction-market platform), [bmmath](https://github.com/pydea-rs/bmmath) (Bayesian market-maker math), [WinnerTakesAllVsSmoothKernel](https://github.com/pydea-rs/WinnerTakesAllVsSmoothKernel) (comparing continuous-market resolution methods), and [LmsrVsBmmSim](https://github.com/pydea-rs/LmsrVsBmmSim) (LMSR vs BMM AMM simulation playground).
+- 📐 Research docs: [dekantpm](https://github.com/pydea-rs/dekantpm) (mathematics of a continuous, multi-outcome prediction-market platform), [bmmath](https://github.com/pydea-rs/bmmath) (Bayesian market-maker math), and [WinnerTakesAllVsSmoothKernel](https://github.com/pydea-rs/WinnerTakesAllVsSmoothKernel) (comparing continuous-market resolution methods).
 
 ### 🦀 Rust & Systems Experiments
 - 🧮 [VaX](https://github.com/pydea-rs/VaX): Dynamic variable implementation for Rust.
@@ -114,9 +119,8 @@ One person, two accounts — deliberately:
 
 ### 🤖 Bots & Automation
 - 💸 [PriCk](https://github.com/pydea-rs/PriCk): Telegram price-scraper bot.
-- 💘 [matchmaker-demo](https://github.com/pydea-rs/matchmaker-demo): Visual toolbox and simulation demo for a matchmaker Telegram bot — shows its first phase in action.
 - 💓 [url-poker](https://github.com/pydea-rs/url-poker): Keep-alive pinger that hits a URL on an interval so free-tier hosts never sleep.
-- ✅ [togo4](https://github.com/pydea-rs/togo4): Go CLI for managing todos.
+- ✅ [togo4](https://github.com/pydea-rs/togo4): Go CLI for managing todos — the very starting point that later grew into [ToGo4BotPlus](https://github.com/pya-h/ToGo4BotPlus).
 
 ### 🛠️ Desktop Tools & Office Utilities
 - 🧰 [QtBatchRename](https://github.com/pydea-rs/QtBatchRename): C++/Qt GUI batch-rename utility.
@@ -143,13 +147,10 @@ One person, two accounts — deliberately:
 
 ### 📚 Learning & Legacy Workspaces
 - 🐹 [go_tuto](https://github.com/pydea-rs/go_tuto): Go tutorial notes and practice — kept so future-me can reuse them.
-- 🗺️ [roadmapper](https://github.com/pydea-rs/roadmapper): All my learning and project roadmaps — how I plan picking up new things.
-- 🧗 [solmap](https://github.com/pydea-rs/solmap): "SolMates Buildmap" — a private mission-control roadmap tracker (PHP 8 + SQLite, no build step) that renders a 15-week day-by-day plan and tracks triple-model completion progress.
 - ☕ [Some-Quera-Questions-By-Java](https://github.com/pydea-rs/Some-Quera-Questions-By-Java): Competitive-programming solutions in Java.
 - ➕ [Cpp-Quera](https://github.com/pydea-rs/Cpp-Quera): More competitive-programming solutions, in C++.
 - 🗄️ [bunch-of-old-c](https://github.com/pydea-rs/bunch-of-old-c): Cool extra C/C++ code accumulated over the years.
 - 🎓 [studentManagerApi](https://github.com/pydea-rs/studentManagerApi): Node.js backend for a student-manager website.
-- ⚡ [fastapi-tryouts](https://github.com/pydea-rs/fastapi-tryouts): My playground while learning FastAPI.
 - 🏥 [clinic-client](https://github.com/pydea-rs/clinic-client): Demo TypeScript client for an AI-clinic project.
 
 ### 🪞 Mirrored From My Main Account
