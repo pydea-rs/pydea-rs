@@ -25,7 +25,6 @@ One person, two accounts — deliberately:
 - **✨ Vibe-coded & quick tools** — small utilities I built because I needed them and no polished version existed.
 
 > **Honesty note for visitors:** the code-quality bar here ranges from "weekend sketch" to "production-grade".
-> If you want the polished, recruiter-focused portfolio, start at [@pya-h](https://github.com/pya-h).
 > If you want to see how much — and how long — I've been building, you're in the right place.
 
 ---
@@ -164,7 +163,7 @@ One person, two accounts — deliberately:
 
 ---
 
-## 👀 For Recruiters Visiting From @pya-h
+## 👀 Visiting From @pya-h?
 
 - This account is **intentionally** a mixed bag — that variety is the point. It maps the full range of what I've touched: assembly-era games to Solana tutorials to VBA macros.
 - The **🌟 Best Of This Account** section above is the curated tour if you only have two minutes.
